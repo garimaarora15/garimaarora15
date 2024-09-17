@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **garimaarora15/garimaarora15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,14 @@ As a final-year M.Sc. Data Science student, I excel at transforming ideas into p
 
 ### Languages and Tools
 <img align = "left" alt = "Python" width = "30px" style = "padding-right: 10px;" src = "https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
+<img align = "left" alt = "C++" width = "30px" style = "padding-right: 10px;" src = "icons/cplusplus/cplusplus-original.svg">
+<img align = "left" alt = "Tensorflow" width = "30px" style = "padding-right: 10px;" src = "icons/tensorflow/tensorflow-original.svg">
+<img align = "left" alt = "Scikit-Learn" width = "30px" style = "padding-right: 10px;" src = "icons/scikitlearn/scikitlearn-original.svg">
+<img align = "left" alt = "Github" width = "30px" style = "padding-right: 10px;" src = "icons/github/github-original.svg">
+<img align = "left" alt = "Anaconda" width = "30px" style = "padding-right: 10px;" src = "icons/anaconda/anaconda-original.svg">
+<img align = "left" alt = "Flask" width = "30px" style = "padding-right: 10px;" src = "icons/flask/flask-original.svg">
+<img align = "left" alt = "Jupyter" width = "30px" style = "padding-right: 10px;" src = "icons/jupyter/jupyter-original.svg">
+<img align = "left" alt = "CSS" width = "30px" style = "padding-right: 10px;" src = "icons/css3/css3-original.svg">
+<img align = "left" alt = "HTML" width = "30px" style = "padding-right: 10px;" src = "icons/html5/html5-original.svg">
+
+
