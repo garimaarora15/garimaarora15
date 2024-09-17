@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Garima Arora
+
+**`Aspiring Data Scientist`**
+
+As a final-year M.Sc. Data Science student, I excel at transforming ideas into practical solutions. With a strong foundation in data science, I'm eager to contribute to innovative projects and explore new opportunities through internships.
+
+### Languages and Tools
+<img align = "left" alt = "Python" width = "30px" style = "padding-right: 10px;" src = "https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
